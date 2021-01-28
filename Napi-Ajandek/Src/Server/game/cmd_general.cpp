@@ -11,7 +11,7 @@ ACMD(do_dailyreward_open)
 	}
 	else
 	{
-		ch->ChatPacket(CHAT_TYPE_INFO, LC_TEXT("daily_reward_not_yet"));
+		ch->ChatPacket(CHAT_TYPE_INFO, LC_TEXT("daily_reward_not_yet")); //<- hu_string (locale_string)
 		return;
 	}
 }
