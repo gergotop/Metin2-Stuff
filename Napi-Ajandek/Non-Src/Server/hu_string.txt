@@ -1,0 +1,2 @@
+"daily_reward_not_yet";
+"Még nem telt el egy nap!";
