@@ -25,7 +25,7 @@ A programhoz futtatásához szükséges [.NET Framework 4.7.2](https://dotnet.mi
 A quest frissítőt le klónozzuk egy általunk válaszott mappába és kész is vagyunk
 
 ```
-git clone https://github.com/gergotop/Metin2-Stuff/tree/master/QuestUpdater
+QuestUpdater.zip fájlt töltsd le és csomagold ki.
 ```
 
 
