@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<settings>
+  <hostname>10.10.10.1</hostname>
+  <port>5782</port>
+  <username>rencitest</username>
+  <password>password</password>
+  <questdirectory>/usr/game/share/locale/hungary/quest</questdirectory>
+</settings>
