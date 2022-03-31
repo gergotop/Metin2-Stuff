@@ -4,6 +4,8 @@ Hugames: http://hugames.hu/
 # Server Installer Script
 
 This shell script will automatically generate the server instance for you. It means that this script will install a fresh server based on @TMP files.
+TMP Profile: https://hugames.hu/index.php?/profile/29-tmp4/
+
 ## Requirements
 ```bash
 Operating system: FreeBSD 12.3-RELEASE
