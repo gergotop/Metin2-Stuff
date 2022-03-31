@@ -30,7 +30,7 @@ or you can download from here: http://down.serverrent.hu/installer.zip
 sh database.sh
 
 # create server structure
-sh game.sh
+sh server.sh
 
 ```
 ```bash
