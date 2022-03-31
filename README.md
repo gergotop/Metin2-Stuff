@@ -19,7 +19,8 @@ You have to clone this repository or download as zip to a random folder.
 
 ```bash
 mkdir /home/
-git clone https://github.com/gergotop/Metin2-Stuff/tree/master/ServerInstaller
+git clone https://github.com/gergotop/Metin2-Stuff/ then move the ServerInstaller folder to anywhere.
+or you can download from here: http://down.serverrent.hu/installer.zip
 ```
 
 
