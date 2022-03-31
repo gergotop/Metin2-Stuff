@@ -38,6 +38,24 @@ By default the mysql password is empty (there is no password for root so you can
 If you had set a password, you can specify the mysql user details in the database.sh. For example (mysql -u root -p yourpassword)
 ```
 
+## The database script
+```bash
+This script do the following: 
+-> 1. Creating metin2 user for the server
+-> 2. Creating account, common, hotbackup, log, player database.
+-> 3. Executing the sql scripts which inside the database folder.
+-> 4. Done
+```
+
+## The server script
+```bash
+This script do the following: 
+-> 1. Creating server folder and tmp folder
+-> 2. Fetching the serverfile from my server then extract.
+-> 3. Removing the tar.gz file.
+-> 4. Done.
+```
+
 
 
 
