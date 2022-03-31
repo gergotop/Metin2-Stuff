@@ -22,6 +22,7 @@ mkdir /home/
 git clone https://github.com/gergotop/Metin2-Stuff/tree/master/ServerInstaller
 ```
 
+
 ## Usage
 
 ```bash
@@ -32,6 +33,11 @@ sh database.sh
 sh game.sh
 
 ```
+```bash
+By default the mysql password is empty (there is no password for root so you can easily log in).
+If you had set a password, you can specify the mysql user details in the database.sh. For example (mysql -u root -p yourpassword)
+```
+
 
 
 
