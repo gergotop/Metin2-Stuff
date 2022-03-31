@@ -10,7 +10,7 @@ TMP Profile: https://hugames.hu/index.php?/profile/29-tmp4/
 ```bash
 Operating system: FreeBSD 12.3-RELEASE
 Database: MySQL56 Server / pkg install mysql56-server
-Libs: Se below
+Libs: See below
 ```
 You can download the libs from here: [http://down.serverrent.hu/libs.zip]() (Do not rewrite the files just place the missing ones which are required by the server)
 ## Installation
