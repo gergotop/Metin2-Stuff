@@ -40,7 +40,7 @@ If you had set a password, you can specify the mysql user details in the databas
 
 ## The database script
 ```bash
-This script do the following: 
+This script will do the following: 
 -> 1. Creating metin2 user for the server
 -> 2. Creating account, common, hotbackup, log, player database.
 -> 3. Executing the sql scripts which inside the database folder.
@@ -49,7 +49,7 @@ This script do the following:
 
 ## The server script
 ```bash
-This script do the following: 
+This script will do the following: 
 -> 1. Creating server folder and tmp folder
 -> 2. Fetching the serverfile from my server then extract.
 -> 3. Removing the tar.gz file.
