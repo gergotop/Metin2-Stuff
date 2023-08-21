@@ -7,9 +7,7 @@ TMP Profile: https://hugames.hu/index.php?/profile/29-tmp4/
 ```bash
 Operating system: FreeBSD 13.2-RELEASE
 Database: MariaDB 10.11.4/ pkg install mariadb1011-server
-Libs: See below
 ```
-You can download the libs from here: [http://down.pikdev.hu/libs.zip]() (Do not rewrite the files just place the missing ones which are required by the server)
 ## Installation
 
 You have to clone this repository or download as zip to a random folder.
